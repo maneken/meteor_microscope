@@ -23,3 +23,5 @@ iron:router
 sacha:spin
 mrt:accounts-ui-bootstrap-dropdown
 accounts-password
+ian:accounts-ui-bootstrap-3
+twbs:bootstrap
